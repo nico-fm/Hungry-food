@@ -9,9 +9,8 @@ public class MainActivity extends AppCompatActivity {
     //si se ve..Byronth..voy a hacer una imagen de vos con viscachas
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
         //se ve?   ....
+        //si creo que al fin da esta cosa
 
 
 
