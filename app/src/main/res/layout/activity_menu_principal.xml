@@ -12,47 +12,6 @@
     android:background="@color/colorAccent"
     tools:context="com.example.hp.hungryfood.menu_principal">
 
-    <EditText
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:inputType="textEmailAddress"
-        android:ems="10"
-        android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="200dp"
-        android:id="@+id/txtUsuario"
-        android:hint="Usuario"
-        android:background="@android:color/background_light"
-        android:padding="15dp"
-        android:textStyle="bold" />
-
-    <EditText
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:inputType="textPassword"
-        android:ems="10"
-        android:layout_marginTop="23dp"
-        android:id="@+id/txtPassword"
-        android:hint="Password"
-        android:layout_below="@+id/txtUsuario"
-        android:layout_alignStart="@+id/txtUsuario"
-        android:background="@android:color/background_light"
-        android:padding="15dp"
-        android:textStyle="bold" />
-
-    <Button
-        android:text="INICIAR"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="35dp"
-        android:id="@+id/btnIniciar"
-        android:layout_below="@+id/txtPassword"
-        android:textStyle="bold"
-        android:background="@color/colorPrimary"
-        android:layout_centerHorizontal="true"
-        android:padding="15dp"
-        android:textSize="15sp" />
-
 
 
 </RelativeLayout>
