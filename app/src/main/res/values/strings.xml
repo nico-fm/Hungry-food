@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Hungry food</string>
+    <string name="LoginName">Login</string>
 </resources>
